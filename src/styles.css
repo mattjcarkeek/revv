@@ -1,1 +1,25 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  a {
+    color: #3498db;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
